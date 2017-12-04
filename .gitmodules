@@ -1,0 +1,3 @@
+[submodule "com/codekata/binary_chop/c++/Catch2"]
+	path = com/codekata/binary_chop/c++/Catch2
+	url = https://github.com/catchorg/Catch2.git
